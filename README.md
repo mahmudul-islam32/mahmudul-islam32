@@ -77,9 +77,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-islam32&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-islam32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
+
 
 ---
 
