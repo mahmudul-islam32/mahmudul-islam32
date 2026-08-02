@@ -74,7 +74,6 @@
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-islam32&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=mahmudul-islam32&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
